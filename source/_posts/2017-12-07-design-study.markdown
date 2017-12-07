@@ -6,17 +6,15 @@ comments: true
 categories: 软件设计基础
 ---
 
-每个软件项目应该最终包含3个交付物：解决问题的source code，项目的具体报告，design study。那么，什么是design study？它有什么用呢？
-
+每个软件项目应该最终包含3个交付物：解决问题的source code，项目的具体报告，design study。那么，什么是design study？它有什么用呢？如何严谨的记录归档design study呢？
+<!-- more -->
 
 ## 为什么需要Design study？
 设计的过程就是一个决策的过程，分析探索可能的解决方案（design space）。这个决策的过程往往需要分析各方、权衡利弊。
 
 那么如何帮助决定选择哪种方案呢？其中一个可选的方法就是进行design study。通过量化的分析，直观地揭示哪些因素会影响我们的设计，揭示这些因素如何影响设计。可见，design study 是一个软件设计阶段的早期活动。
 
-
 ## Design study是什么？
-<!-- more -->
 从定义上来看，design study是：严谨的且系统化地评估那些影响设计的因素的过程。
 
 既然是一个评估过程，那么需要涉及评估的标准、度量的指标等。评估的内容可以包括客观目标的评估以及美学方面的评估等等。
