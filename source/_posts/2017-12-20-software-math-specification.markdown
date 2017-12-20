@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "软件说明书（specification）及其形式化描述"
-date: 2017-12-19 09:28:08 -0500
+date: 2017-12-20 01:31:55 +0800
 comments: true
 categories: 软件设计基础
 ---
-
 在编写程序之前，我们需要知道这个程序的功能是什么，才能进行编程。这就是功能说明书（specification）所扮演的角色。Specification可以有多种形式，比如：无结构化的文本、结构化的文本、数学描述等。本文将简单介绍一下如何使用数学符号来形式化的描述specification。
 <!-- more -->
 
